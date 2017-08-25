@@ -1,6 +1,10 @@
 # Golang-Iteration-Performace
 Track Performance &amp; Memory Allocation in 20.000.000 iteration in Golang
 
+# Author
+Thomas wangsa
+github: https://github.com/Thomas-wangsa
+
 # 1. Basic Information :
 Benchmark System :
 A. Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
